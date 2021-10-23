@@ -1934,14 +1934,14 @@
             ]
         },
         {
-            "ip": "bbe68afcab9ee9818ba045d0e8e58fci",
+            "ip": "bbe68afcab9ee9818ba045d0e8e58fc8",
             "scheme": "mm_prod",
             "region": "vultr:pea",
             "index": 30,
             "games": [
                 {
                     "playerCount": 0,
-                    "isPrivate": true
+                    "isPrivate": false
                 }
             ]
         }
